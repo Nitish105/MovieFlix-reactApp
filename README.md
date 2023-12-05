@@ -1,4 +1,4 @@
-# MovieFlix App 
+# MovieFlix App 🎬
 ## Link 👉 https://movieflix-app-pearl.vercel.app/
 
 # React + Vite
