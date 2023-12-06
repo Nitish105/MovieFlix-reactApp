@@ -1,6 +1,7 @@
 # MovieFlix App 🎬
 ## Introduction
 This is a react-based application named "MovieFlix App". In this app features such as searching section movies and TV shows on a day, or week having a genre/category section for user wants, and sorting by movie ratings can also be checked by the user.
+
 ### Link 👉 https://movieflix-app-pearl.vercel.app/
 
 # React + Vite
